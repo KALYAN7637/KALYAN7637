@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KALYAN7637
+- 👋 Hi, I’m @KALYANNALAM
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data science and java
