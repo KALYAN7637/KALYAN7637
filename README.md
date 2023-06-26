@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KALYANNALAM
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data science and java
+- 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me through mail
 
 <!---
